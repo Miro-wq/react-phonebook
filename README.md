@@ -6,7 +6,7 @@
 
 ### Description
 
-This project is a simple contact management application for a phonebook, designed to practice fundamental React concepts and state management. The application allows users to add, display, search, and delete contacts, with each contact consisting of a name and a phone number. The project is structured to progressively introduce new features, demonstrating the importance of component-based architecture, controlled components, and state handling in React.
+This homework task is a simple contact management application for a phonebook, designed to practice fundamental React concepts and state management. The application allows users to add, display, search, and delete contacts, with each contact consisting of a name and a phone number. The project is structured to progressively introduce new features, demonstrating the importance of component-based architecture, controlled components, and state handling in React.
 
 ### Key Features
 
