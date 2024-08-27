@@ -36,8 +36,6 @@ This project served as a solid foundation for building more complex React applic
 
 ---
 
-**Create a contact storage application for a phonebook.**
-
 ### Step 1
 The application should include a form and a contact list. In the current step, implement the ability to add a contact name and display it in the contact list. The application does not need to save contacts between different sessions (page refreshes).
 
