@@ -150,7 +150,3 @@ Prevent the user from adding contacts whose names are already present in the pho
 
 ### Step 6
 Extend the application's functionality by allowing the user to delete previously saved contacts.
-
----
-
-Let me know if you need any more help!
