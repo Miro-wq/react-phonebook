@@ -16,7 +16,7 @@ class App extends Component {
     name: '',
     number: ''
   }
-  
+
   // state = {
   //   contacts: [],
   //   filter: '',
@@ -78,9 +78,6 @@ class App extends Component {
 }
 
 export default App;
-
-
-
 
 //   handleSubmit = event => {
 //     event.preventDefault();

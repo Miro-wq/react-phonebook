@@ -5,9 +5,8 @@ form {
     margin-top: 30px;
 }
 
-/* Stilizare pentru buton */
 button {
-    background-color: #000000; /* Verde */
+    background-color: #000000;
     border: none;
     color: white;
     padding: 7px 8px;
@@ -23,10 +22,9 @@ button {
   }
   
   button:hover {
-    background-color: #5a5a5a; /* Verde mai închis */
+    background-color: #5a5a5a;
   }
   
-  /* Stilizare pentru input-uri */
   input[type="text"],
   input[type="tel"] {
      width: 100%;
@@ -39,11 +37,12 @@ button {
     font-size: 16px;
     display: flex;
     flex-direction: column;
+    font-family: Dancing Script;
   }
   
   input[type="text"]:focus,
   input[type="tel"]:focus {
-    border-color: #000000; /* Schimbare culoare la focus */
+    border-color: #000000;
     outline: none;
   }
   
